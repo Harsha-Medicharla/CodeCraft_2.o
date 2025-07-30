@@ -2,7 +2,8 @@
 
 An AI-powered collaborative coding platform that helps users solve coding challenges smarter with real-time collaboration features, AI-generated hints, and an interactive learning hub.
 
-[CodeCraft Platform](https://codemindai.netlify.app/)
+
+<!-- [CodeCraft Platform](https://codemindai.netlify.app/) -->
 
 ## User Guide
 
@@ -335,15 +336,15 @@ CodeCraft/
 │
 └── README.md
 ```
-
+<!-- 
 ## Deployment
 
 ### Frontend Deployment
 
 The frontend is deployed on *netlify* [here](https://codemindai.netlify.app/problems):
-<!-- mention the  site  used to deploy-->
 ### Backend Deployment
 The Django backend is deployed on *render* [here](https://codecraft-dmue.onrender.com/)
+-->
 
 ### Future Enhancements
 
